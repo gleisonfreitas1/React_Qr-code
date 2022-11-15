@@ -1,0 +1,30 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+
+}
+
+.input{
+  border-radius: 8px;
+  margin: 12px 0;
+  outline: none;
+  padding: 6px;
+  border: 1px solid #b6b6b6;
+  max-width: 300px;
+  width: 100%;
+}
+
+.btn-link{
+  text-decoration: none;
+  color: #fff;
+}
+
+.btn{
+  padding: 6px;
+  border-radius: 8px;
+  border: 1px solid #b6b6b6;
+  background-color: rgb(2, 44, 87);
+}
